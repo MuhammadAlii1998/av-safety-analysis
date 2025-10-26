@@ -5,3 +5,5 @@ matplotlib
 seaborn
 lightgbm
 nuscenes-devkit
+
+requests
